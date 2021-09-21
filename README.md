@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanDemin3467
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python+Flask+Jinja
+- 🌱 I’m currently practicing algorithms in Python
 - 📫 How to reach me: IvanDemin3467@gmail.com
 
 <!---
