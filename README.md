@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanDemin3467
-- 👀 I’m interested in Python development
-- 🌱 I’m currently practicing algorithms in Python
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently practicing Docker
 - 📫 How to reach me: IvanDemin3467@gmail.com
 
 <!---
